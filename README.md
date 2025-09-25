@@ -9,7 +9,7 @@
 
 ---
 
-# 💫 About Me:
+#  About Me:
 - 🎓 Doing **B.Tech in CSE (AI & ML)** at KIIT University  
 - 🤖 Learning & building in **Robotics and Generative AI**  
 - 🎥 Passionate **Video Editor & Cinematographer**  
