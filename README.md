@@ -1,6 +1,6 @@
 <!-- Lottie Animation -->
 <p align="center">
-  <img src="assets/laptop.gif" width="400px" alt="Laptop Animation" />
+  <img src="assets/laptop.gif" width="1000px" alt="Laptop Animation" />
 </p>
 
 <!-- Profile Header -->
