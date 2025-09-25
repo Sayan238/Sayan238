@@ -1,6 +1,6 @@
 <!-- Lottie Animation -->
 <p align="center">
-  <iframe src="https://lottie.host/embed/49a6a1e7-923b-4bff-bea5-1b099922adf7/C6tqIR6SHI.lottie" width="400" height="400" frameborder="0"></iframe>
+  <img src="assets/laptop.gif" width="400px" alt="Laptop Animation" />
 </p>
 
 <!-- Profile Header -->
