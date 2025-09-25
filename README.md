@@ -1,10 +1,15 @@
+<!-- Lottie Animation -->
+<p align="center">
+  <iframe src="https://lottie.host/embed/49a6a1e7-923b-4bff-bea5-1b099922adf7/C6tqIR6SHI.lottie" width="400" height="400" frameborder="0"></iframe>
+</p>
+
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Sayan Barman</h1>
 <h3 align="center">🚀 B.Tech CSE (AI & ML) Student | 🤖 Robotics & Generative AI Enthusiast | 🎥 Video Editor | 💻 Developer & Designer</h3>
 
 ---
 
-#  About Me:
+# 💫 About Me:
 - 🎓 Doing **B.Tech in CSE (AI & ML)** at KIIT University  
 - 🤖 Learning & building in **Robotics and Generative AI**  
 - 🎥 Passionate **Video Editor & Cinematographer**  
