@@ -1,8 +1,16 @@
 
 <!-- Animated Banner -->
-<p align="center">
+<!-- <p align="center">
    <img src="assets/laptop.gif" width="100%" alt="Coding Banner"/>
-</p>  
+</p>   -->
+
+
+<p align="center">
+  <img src="assets/banner.gif" width="100%" style="border-radius:15px;" alt="Coding Banner"/>
+</p>
+
+
+
 
 
 
