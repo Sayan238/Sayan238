@@ -1,63 +1,21 @@
 
-<!-- Animated Banner -->
-<!-- <p align="center">
-   <img src="assets/laptop.gif" width="100%" alt="Coding Banner"/>
-</p>   -->
-
+<!-- ========================= HERO BANNER ========================= -->
 
 <p align="center">
-  <img src="assets/banner.gif" width="100%" style="border-radius:15px;" alt="Coding Banner"/>
+  <img src="https://raw.githubusercontent.com/Sayan238/Sayan238/main/banner.gif" width="100%" alt="Cyberpunk Banner"/>
 </p>
 
+<!-- ========================= TYPING ANIMATION ========================= -->
+
+
+<h1 align="center"> Hi 👋 I'm Sayan Barman </h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+(AI+%26+ML)+Student;Robotics+%26+Generative+AI+Enthusiast;Frontend+Developer+%26+Designer;Creative+Video+Editor+%26+Cinematographer;Building+Ideas+Into+Reality+🚀" /> </p>
 
 
 
 
 
 
-
-
-
-
-
-<!-- Animated Typing -->
-<h1 align="center">
-  Hi 👋 I'm Sayan Barman
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+(AI+%26+ML)+Student;Robotics+%26+Generative+AI+Enthusiast;Frontend+Developer+%26+Designer;Creative+Video+Editor+%26+Cinematographer;Building+Ideas+Into+Reality+🚀" />
-</p>
-
----
-
-## 🌌 About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```yaml
-Name: Sayan Barman
-Education: B.Tech CSE (AI & ML)
-University: KIIT University
-Interests:
-  - Robotics
-  - Generative AI
-  - Frontend Development
-  - UI/UX Design
-  - Video Editing
-Currently Learning:
-  - AI-powered Applications
-  - Automation Systems
-  - Robotics Integration
-````
-
-✨ Passionate about blending **technology + creativity**
-🚀 Love building futuristic ideas with code and design
-🎯 Always exploring, learning, and creating innovative projects
-
----
-
-# 🌐 Connect With Me
+<!-- ========================= SOCIALS ========================= -->
 
 <p align="center">
   <a href="https://instagram.com/mr_sayan_barman_">
@@ -75,74 +33,119 @@ Currently Learning:
 
 ---
 
+## 🌌 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+Name: Sayan Barman
+
+Education: B.Tech CSE (AI & ML)
+
+University: KIIT University
+Interests:
+  - Robotics
+  - Generative AI
+  - Frontend Development
+  - UI/UX Design
+  - Video Editing
+Currently Learning:
+  - AI-powered Applications
+  - Automation Systems
+  - Robotics Integration
+
+✨ Passionate about blending technology + creativity
+🚀 Love building futuristic ideas with code and design
+🎯 Always exploring, learning, and creating innovative projects
+
 # ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,figma,git,github,vscode&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,figma,git,github,vscode,blender&theme=dark"/>
 </p>
 
----
 
-# 🎨 Creative Tools
+# 🎨 Creative Toolkit
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=ps,ae,pr,figma,blender&theme=dark"/>
-
+  <img src="https://skillicons.dev/icons?i=ps,ae,pr,figma,blender&theme=dark"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sayan238&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/> <img width="49%" src="https://streak-stats.demolab.com?user=Sayan238&theme=tokyonight&hide_border=true&background=0D1117"/> </p> <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan238&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/> </p>
 
----
-
-# 📈 Contribution Graph
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayan238&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayan238&theme=tokyonight" width="100%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayan238&theme=tokyonight"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayan238&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayan238&theme=tokyonight"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayan238&theme=tokyonight&utcOffset=8"/>
+</p>
+
+
+
+
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayan238&bg_color=0D1117&color=00F7FF&line=6C63FF&point=FF4B91&area=true&hide_border=true&custom_title=⚡%20Sayan's%20GitHub%20Activity%20⚡"/>
+</p>
+```
+
+
 
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sayan238&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sayan238&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
-# 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/Sayan238/Sayan238/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </p>
 
+# 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sayan238/Sayan238/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project                | Description                            |
-| ---------------------- | -------------------------------------- |
-| 🤖 Robotics Projects   | Arduino & ESP32 based robotics systems |
-| 🧠 AI Health Predictor | AI-powered healthcare risk prediction  |
-| 🎨 UI/UX Designs       | Modern Figma & frontend interfaces     |
-| 🌐 Web Development     | Responsive and interactive websites    |
+| 🚀 Project             | 🔥 Description                              |
+| ---------------------- | ------------------------------------------- |
+| 🤖 Robotics Projects   | Arduino & ESP32 based robotics systems      |
+| 🧠 AI Health Predictor | AI-powered healthcare risk prediction       |
+| 🎨 UI/UX Designs       | Modern Figma & frontend interfaces          |
+| 🌐 Web Development     | Responsive and interactive web applications |
 
----
 
-# 🎵 Currently Vibing To
+
+# 💡 Quote Zone
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Think.+Build.+Innovate.;Code.+Create.+Repeat.;Turning+Ideas+Into+Reality.;Building+the+Future+with+AI.;Robotics+%7C+AI+%7C+Development.;Stay+Curious.+Keep+Building." />
 </p>
 
----
+
+
 
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sayan238&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Sayan238&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
 </p>
 
 ---
@@ -150,4 +153,17 @@ Currently Learning:
 <h3 align="center">
 ✨ Building the Future with AI, Robotics & Creativity ✨
 </h3>
+
+
+---
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg4YTlrajFvaGxuNm1rNWFqbHIxdHplOXp1dGtkbGhyYWUyd3JuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FsbNjfsz253JbSi1hS/giphy.gif" width="100%" alt="Cyberpunk Animation"/>
+</p>
+
+<h3 align="center">
+⚡ Thanks for visiting my profile ⚡
+</h3>
+
+
 
