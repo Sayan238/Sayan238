@@ -108,11 +108,7 @@ Currently Learning:
 </p>
 
 ---
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Sayan238/Sayan238/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+# 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/Sayan238/Sayan238/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </p>
 
 
 
