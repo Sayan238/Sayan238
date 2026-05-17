@@ -1,67 +1,151 @@
-<!-- Lottie Animation -->
+
+<!-- Animated Banner -->
 <p align="center">
-  <img src="assets/laptop.gif" width="1000px" alt="Laptop Animation" />
+  <img src="assets/laptop.gif" width="100%" alt="Coding Banner"/>
 </p>
 
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Sayan Barman</h1>
-<h3 align="center">🚀 B.Tech CSE (AI & ML) Student | 🤖 Robotics & Generative AI Enthusiast | 🎥 Video Editor | 💻 Developer & Designer</h3>
+<!-- Animated Typing -->
+<h1 align="center">
+  Hi 👋 I'm Sayan Barman
+</h1>
 
----
-
-#  About Me:
-- 🎓 Doing **B.Tech in CSE (AI & ML)** at KIIT University  
-- 🤖 Learning & building in **Robotics and Generative AI**  
-- 🎥 Passionate **Video Editor & Cinematographer**  
-- 💻 Skilled in **Frontend Development & Figma Designing**  
-- ⚡ Always ready to **learn, build & create**  
-
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_sayan_barman_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayan-barman-983491327) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayanbarman30062005@gmail.com) 
-
----
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-
----
-
-# 🎨 Creative Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+(AI+%26+ML)+Student;Robotics+%26+Generative+AI+Enthusiast;Frontend+Developer+%26+Designer;Creative+Video+Editor+%26+Cinematographer;Building+Ideas+Into+Reality+🚀" />
 </p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sayan238&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sayan238&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan238&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌌 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```yaml
+Name: Sayan Barman
+Education: B.Tech CSE (AI & ML)
+University: KIIT University
+Interests:
+  - Robotics
+  - Generative AI
+  - Frontend Development
+  - UI/UX Design
+  - Video Editing
+Currently Learning:
+  - AI-powered Applications
+  - Automation Systems
+  - Robotics Integration
+````
+
+✨ Passionate about blending **technology + creativity**
+🚀 Love building futuristic ideas with code and design
+🎯 Always exploring, learning, and creating innovative projects
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sayan238&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/mr_sayan_barman_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/sayan-barman-983491327">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:sayanbarman30062005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Sayan238&icon=0&color=0)](https://visitcount.itsvg.in)
+# ⚡ Tech Stack
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,figma,git,github,vscode&theme=dark" />
+
+</p>
+
+---
+
+# 🎨 Creative Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ps,ae,pr,figma,blender&theme=dark"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sayan238&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan238&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan238&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayan238&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sayan238&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+</p>
+
+---
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Sayan238/Sayan238/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+
+
+---
+
+# 🚀 Featured Projects
+
+| Project                | Description                            |
+| ---------------------- | -------------------------------------- |
+| 🤖 Robotics Projects   | Arduino & ESP32 based robotics systems |
+| 🧠 AI Health Predictor | AI-powered healthcare risk prediction  |
+| 🎨 UI/UX Designs       | Modern Figma & frontend interfaces     |
+| 🌐 Web Development     | Responsive and interactive websites    |
+
+---
+
+# 🎵 Currently Vibing To
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sayan238&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+<h3 align="center">
+✨ Building the Future with AI, Robotics & Creativity ✨
+</h3>
 
