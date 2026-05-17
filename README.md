@@ -100,7 +100,7 @@ Currently Learning:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayan238&bg_color=0D1117&color=00F7FF&line=6C63FF&point=FF4B91&area=true&hide_border=true&custom_title=⚡%20Sayan's%20GitHub%20Activity%20⚡"/>
 </p>
-```
+
 
 
 
