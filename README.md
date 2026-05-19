@@ -48,7 +48,8 @@ Interests:
   - Frontend Development
   - UI/UX Design
   - Video Editing
-Currently Learning:
+
+  Currently Learning:
   - AI-powered Applications
   - Automation Systems
   - Robotics Integration
