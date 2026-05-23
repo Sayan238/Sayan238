@@ -42,6 +42,7 @@ Name: Sayan Barman
 Education: B.Tech CSE (AI & ML)
 
 University: KIIT University
+
 Interests:
   - Robotics
   - Generative AI
