@@ -1,4 +1,3 @@
-
 <!-- ========================= HERO BANNER ========================= -->
 
 <p align="center">
@@ -7,111 +6,120 @@
 
 <!-- ========================= TYPING ANIMATION ========================= -->
 
-
-<h1 align="center"> Hi 👋 I'm Sayan Barman </h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+(AI+%26+ML)+Student;Robotics+%26+Generative+AI+Enthusiast;Frontend+Developer+%26+Designer;Creative+Video+Editor+%26+Cinematographer;Building+Ideas+Into+Reality+🚀" /> </p>
-
-
-
-
-
-
-<!-- ========================= SOCIALS ========================= -->
+<h1 align="center">Hi 👋 I'm Sayan Barman</h1>
 
 <p align="center">
-  <a href="https://instagram.com/mr_sayan_barman_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/in/sayan-barman-983491327">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:sayanbarman30062005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+(AI+%26+ML)+Student;Robotics+Developer;Generative+AI+Learner;Frontend+Developer;Building+Ideas+Into+Reality+🚀"/>
 </p>
 
 ---
 
-## 🌌 About Me
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://instagram.com/mr_sayan_barman_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sayan-barman-983491327">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sayanbarman30062005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🌌 About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Name: Sayan Barman
+🎓 **B.Tech CSE (AI & ML)** Student at **KIIT University**
 
-Education: B.Tech CSE (AI & ML)
+💻 Passionate about
 
-University: KIIT University
+- Robotics
+- Artificial Intelligence
+- Generative AI
+- Frontend Development
+- UI/UX Design
 
-Interests:
-  - Robotics
-  - Generative AI
-  - Frontend Development
-  - UI/UX Design
-  - Video Editing
+🌱 Currently Learning
 
-  Currently Learning:
-  - AI-powered Applications
-  - Automation Systems
-  - Robotics Integration
+- Machine Learning
+- AI Agents
+- Automation
+- Robotics Integration
+- Full Stack Development
 
-✨ Passionate about blending technology + creativity
-🚀 Love building futuristic ideas with code and design
-🎯 Always exploring, learning, and creating innovative projects
+⚡ Fun Fact
 
-# ⚡ Tech Stack
+> "Technology + Creativity = Innovation"
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,figma,git,github,vscode,blender&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nodejs,git,github,vscode,figma,blender&theme=dark"/>
+
 </p>
 
+---
 
 # 🎨 Creative Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ae,pr,figma,blender&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=ps,ae,pr,figma,blender&theme=dark"/>
+
 </p>
 
 ---
 
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayan238&theme=tokyonight" width="100%"/>
-</p>
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayan238&theme=tokyonight"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayan238&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sayan238&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan238&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayan238&theme=tokyonight"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayan238&theme=tokyonight&utcOffset=8"/>
+
+<img src="https://streak-stats.demolab.com?user=Sayan238&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+---
 
-
-
-
-# 📈 GitHub Activity
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayan238&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayan238&theme=tokyo-night&hide_border=true"/>
+
 </p>
-
-
-
 
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sayan238&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sayan238&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
 </p>
 
 ---
@@ -119,53 +127,77 @@ Interests:
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sayan238/Sayan238/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+<img src="https://raw.githubusercontent.com/Sayan238/Sayan238/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| 🚀 Project             | 🔥 Description                              |
-| ---------------------- | ------------------------------------------- |
-| 🤖 Robotics Projects   | Arduino & ESP32 based robotics systems      |
-| 🧠 AI Health Predictor | AI-powered healthcare risk prediction       |
-| 🎨 UI/UX Designs       | Modern Figma & frontend interfaces          |
-| 🌐 Web Development     | Responsive and interactive web applications |
+| 🚀 Project | Description |
+|------------|-------------|
+| 🤖 Robotics Projects | Arduino & ESP32 Robotics |
+| 🧠 AI Health Predictor | AI-based Healthcare Risk Prediction |
+| 🌐 Portfolio Website | Personal Portfolio |
+| 📚 DAA Laboratory | Algorithms in C++ & Java |
+| 🎨 UI/UX Designs | Modern Responsive Interfaces |
 
+---
 
-
-# 💡 Quote Zone
+# 💡 Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Think.+Build.+Innovate.;Code.+Create.+Repeat.;Turning+Ideas+Into+Reality.;Building+the+Future+with+AI.;Robotics+%7C+AI+%7C+Development.;Stay+Curious.+Keep+Building." />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Think.+Build.+Innovate.;Code.+Create.+Repeat.;Stay+Curious.;Never+Stop+Learning.;Artificial+Intelligence+%7C+Robotics+%7C+Development."/>
+
 </p>
 
-
-
+---
 
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sayan238&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=Sayan238&label=Profile+Views&style=for-the-badge&color=00F7FF"/>
+
 </p>
 
 ---
 
-<h3 align="center">
-✨ Building the Future with AI, Robotics & Creativity ✨
-</h3>
+# 📫 Reach Me
 
+<p align="center">
+
+<a href="mailto:sayanbarman30062005@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/sayan-barman-983491327">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<h2 align="center">
+
+✨ Building the Future with AI • Robotics • Innovation ✨
+
+</h2>
 
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg4YTlrajFvaGxuNm1rNWFqbHIxdHplOXp1dGtkbGhyYWUyd3JuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FsbNjfsz253JbSi1hS/giphy.gif" width="100%" alt="Cyberpunk Animation"/>
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg4YTlrajFvaGxuNm1rNWFqbHIxdHplOXp1dGtkbGhyYWUyd3JuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FsbNjfsz253JbSi1hS/giphy.gif" width="100%"/>
+
 </p>
 
 <h3 align="center">
- Thanks for visiting my profile 
+
+⭐ Thanks for Visiting My Profile ⭐
+
 </h3>
-
-
-
